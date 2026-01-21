@@ -2,11 +2,12 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Downloaded lab_3.zip from the CMPUT 301 website, ran into an issue with gradle version, fixed with methods in the link.
+https://stackoverflow.com/questions/63206719/gradle-failed-to-restore-unable-to-find-method-org-gradle-api-file-projectlayo
+(go to project structure, changed gradle to 8.1.1, then downloaded an older Gradle JDK
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| Cassie Burke | ceburke   |
